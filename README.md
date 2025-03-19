@@ -1,6 +1,8 @@
 This is modpack for modrinth, my first modpack so expect bugs and glitches.
 
-Description:
+
+About:
+
 M Mods Refreshed is my very first modpack, put together to make Minecraft run better and feel smoother without getting in the way of vanilla gameplay. It's perfect for multiplayer since it's all client-side, meaning it won't get in the way of servers or other players. If you require better FPS, small UI enhancements, or just a smoother experience overall, this pack has got you covered.
 -What's Inside?
 
